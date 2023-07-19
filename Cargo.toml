@@ -1,5 +1,5 @@
 [package]
-name = "rust_vec_slice_ndarray_performance"
+name = "rust_2d_vec_array_ndarray_performance_comparison"
 version = "0.1.0"
 edition = "2021"
 
