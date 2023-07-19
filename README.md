@@ -12,7 +12,7 @@ This repository serves as a benchmarking for different implementations of 2d arr
 The current test results for each array representation are outlined below:
 
 | Test | Execution Time (ns/iter) |
-|:-----|-------------------------:|
+|:-----|:-------------------------|
 |benchmark_add_one_to_each_element_array2 | 102,033 ns/iter (+/- 27,931) |
 |benchmark_add_one_to_x_value_array2 | 18,199 ns/iter (+/- 1,289) |
 |benchmark_get_sub_array2 | 273 ns/iter (+/- 19) |
